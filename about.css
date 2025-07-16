@@ -1,0 +1,45 @@
+body{
+    background-color: wheat;
+}
+h1{
+    color: brown;
+    font-style: oblique;
+}
+h1:hover{
+    color: burlywood;
+    cursor: pointer;
+}
+.icon img{
+    height: 20px;
+    width: 20px;
+    background-size: 20px 20px;
+    padding-left: 15px;
+    
+}
+.content-section{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+p, section{
+    line-height: 80px;
+    width: 600px;
+    height: 600px;
+    font-size: 200%;
+    justify-content: center;
+    padding: 15px;
+    
+
+}
+.img img{
+    width: 700px;
+    height: 500px;
+    margin-top: 50px;
+    padding: 50px;
+    display: flex;
+    float: left;
+    
+    
+    
+}
