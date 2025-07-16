@@ -23,9 +23,9 @@ h1:hover{
 }
 
 p, section{
-    line-height: 80px;
+    line-height: 60px;
     width: 600px;
-    height: 600px;
+    height: 400px;
     font-size: 200%;
     justify-content: center;
     padding: 15px;
