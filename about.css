@@ -1,17 +1,18 @@
 body{
-    background-color: wheat;
+    background-image: url(coffee5.jpg);
 }
 h1{
     color: brown;
     font-style: oblique;
+    text-align: center;
 }
 h1:hover{
     color: burlywood;
     cursor: pointer;
 }
 .icon img{
-    height: 20px;
-    width: 20px;
+    height: 40px;
+    width: 40px;
     background-size: 20px 20px;
     padding-left: 15px;
     
@@ -28,7 +29,10 @@ p, section{
     height: 400px;
     font-size: 200%;
     justify-content: center;
-    padding: 15px;
+    padding-left: 200px;
+    color: white;
+    margin: 260px;
+    
     
 
 }
